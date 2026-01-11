@@ -51,6 +51,7 @@ Aplikasi ini telah memenuhi seluruh poin penilaian teknis:
 
 ## 👨‍💻 Developer
 * **GitHub:** [Andini-bit8](https://github.com/Andini-bit8)
+* 
 
 
 * 
