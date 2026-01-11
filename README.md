@@ -54,4 +54,18 @@ Aplikasi ini telah memenuhi seluruh poin penilaian teknis:
 * 
 
 
-* 
+
+
+
+
+
+
+
+🚀 Cara Menjalankan Aplikasi
+Clone repository ini:
+git clone https://github.com/Andini-bit8/GeminiLite
+Buka project menggunakan Android Studio.
+Pastikan file google-services.json sudah terhubung dengan akun Firebase Anda (atau gunakan file yang sudah disertakan jika public).
+Tunggu proses Gradle Sync selesai.
+Jalankan aplikasi (Run 'app') pada Emulator atau Perangkat Fisik.
+
