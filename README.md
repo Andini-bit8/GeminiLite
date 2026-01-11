@@ -15,7 +15,7 @@ Aplikasi mobile Android berbasis Kotlin yang mereplikasi fitur dasar media sosia
 ---
 
 ## 📝 Deskripsi Proyek
-GeminiLite menghadirkan pengalaman asisten digital di mana pengguna dapat mengirimkan pesan/prompt, melihat riwayat interaksi, mencari topik tertentu, serta mengelola data percakapan mereka sendiri (edit dan hapus).
+GeminiLite menghadirkan pengalaman asisten digital di mana pengguna dapat mengirimkan pesan/prompt, melihat riwayat interaksi, mencari topik tertentu, serta mengelola data percakapan mereka sendiri hapus).
 
 * **Aplikasi Rujukan:** [Google Gemini di Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.bard)
 * **Arsitektur:** Model-View-Controller (MVC)
