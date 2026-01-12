@@ -43,9 +43,9 @@ Aplikasi ini telah memenuhi seluruh poin penilaian teknis:
 
 ### 🏗️ Implementasi Komponen Android
 * **Fragment:** Implementasi untuk mencari riwayat percakapan atau topik.
-* **Intent:** Navigasi antar Activity (Splash Screen -> Login -> Dashboard).
+* **Intent:** Navigasi antar Activity (Login -> Dashboard).
 * **RecyclerView:** Menampilkan daftar chat/pesan dengan performa yang ringan dan responsif.
-* **Notification:** Munculnya notifikasi lokal sebagai konfirmasi saat data berhasil diproses atau dikirim.
+  
 
 ---
 
